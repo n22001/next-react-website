@@ -1,0 +1,7 @@
+[user]
+	name = noritatu
+	email = n22001@std.it-college.ac.jp
+[core]
+	editor=nvim
+[init]
+	defaultBranch=maim
